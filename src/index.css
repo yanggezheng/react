@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.counter{
+  font-size: 2em;
+width: 50px;
+height: 50px;
+border: 5px solid black;
+text-align: center;
+}
+.bit{
+  display: inline-block;
+  font-size: 3em;
+  width: 50px;
+}
